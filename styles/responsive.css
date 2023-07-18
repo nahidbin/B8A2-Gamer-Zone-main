@@ -1,0 +1,14 @@
+  @media screen and (max-width:400px){
+  .
+  .nav-container{
+    flex-direction: column;
+  }
+  ..logo-container{
+    flex-direction: column;
+  }
+  .nav-items-containe{
+    flex-direction: column;
+    width: 100%;
+  }
+    
+}
