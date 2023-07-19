@@ -164,3 +164,102 @@ font-weight: 500;
     align-items: center;
     
 }
+.review-container{
+    margin-top: 50px;
+    min-height: 250px;
+    margin: 50px 20px 0 20px;
+    
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-content: center;
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+.review-items{
+    flex-basis: 300px;
+    display: flex;
+    align-items: center;
+    margin: 15px 25px 15px 25px;
+   justify-content: space-around;
+   width: 100px;
+   border-radius: 50px;
+   background: #ffffff9e;
+width: 350px;
+height: 80px;
+}
+.footer{
+    height: 400px;
+    max-width: 100%;
+    background:  #0B0223;
+}
+.footer-img-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px;
+    color: white;
+
+}
+.footre-img-container img{
+    object-fit: cover;
+    width: 75px;
+    height: 35px;
+}
+.footer-img-container h1{
+font-size: 2.2rem;
+font-weight: 800;
+color: white;
+}
+.link-container{
+    
+    max-width: 45%;
+    margin: 0 auto;
+}
+.link-container a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    align-items: center;
+    margin-left: 60px;
+    justify-content: center;
+
+}
+.social-icon-container {
+    color: white;
+    max-width: 25%;
+    margin: 0 auto;
+}
+.social-icon-container a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+.f, .t, .i, .y, .a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    align-items: center;
+    margin-left: 65px;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.policy-link-container{
+    max-width: 35%;
+    margin: 0 auto;
+    
+}
+.policy-link-container a{
+    text-decoration: none;
+    font-size: 0.7.5rem;
+    font-weight: 600;
+    color:rgba(255, 255, 255, 0.60);
+    /* display: flex; */
+    text-align: center;
+    justify-content: space-evenly;
+    margin-left: 25px;
+}
