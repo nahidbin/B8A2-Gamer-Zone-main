@@ -2,7 +2,7 @@
   .nav-container{
     flex-direction: column;
   }
-  ..logo-container{
+  .logo-container{
     flex-direction: column;
   }.banner-container{
     flex-direction: column;
