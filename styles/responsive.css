@@ -4,9 +4,17 @@
   }
   .logo-container{
     flex-direction: column;
-  }.banner-container{
+  }
+  .banner-container{
     flex-direction: column;
     width: 100%;
-    }
+  }
+  .review-container{
+    width: 100%;
+  }
+  .footer{
+    width: 100%;
+  }
+
   
 }

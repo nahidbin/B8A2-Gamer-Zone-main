@@ -158,6 +158,11 @@ font-weight: 500;
     cursor: pointer;
 
 }
+.grid-container div:hover{
+    color:rgb(148, 113, 200);
+    border: 1px solid #534C64;
+}
+
 
 .single-product-1{
   
@@ -190,10 +195,8 @@ font-weight: 500;
    
     color:rgb(148, 113, 200);
     border:1px solid #8758F1
-    border-radius: 50px;
+    border-radius :50px;
     background: #FF42A5;
-    
-   
 }
 .review-items{
     flex-basis: 300px;
